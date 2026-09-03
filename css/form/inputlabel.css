@@ -1,0 +1,19 @@
+.form__div {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  gap: 1rem;
+}
+
+#div__input--number {
+  width: 8rem;
+  font-size: 0.8rem;
+  padding: 0.5rem 0.3rem;
+}
+
+#aditionalClass {
+  display: none;
+  gap: 1rem;
+}
